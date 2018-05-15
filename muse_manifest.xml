@@ -1,22 +1,24 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="feminapp.com" resolutions="1x" timestamp="1526406651178">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="feminapp.com" resolutions="1x" timestamp="1526409751884">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="420514191" ref="mi-perfil:index:cerca-de-mí:ofertas"/>
-    <file name="mi-perfil.css" crc="3943115278" ref="mi-perfil"/>
-    <file name="index.css" crc="3892172524" ref="index"/>
-    <file name="cerca-de-m_.css" crc="3943115278" ref="cerca-de-mí"/>
-    <file name="ofertas.css" crc="3943115278" ref="ofertas"/>
+    <file name="master_a-master.css" crc="4066830481" ref="mi-perfil:index:cerca-de-mí:ofertas"/>
+    <file name="mi-perfil.css" crc="28733193" ref="mi-perfil"/>
+    <file name="index.css" crc="31672951" ref="index"/>
+    <file name="cerca-de-m_.css" crc="28733193" ref="cerca-de-mí"/>
+    <file name="ofertas.css" crc="28733193" ref="ofertas"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="museutils.js" crc="17924269" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="whatinput.js" crc="86476730" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="museconfig.js" crc="144853533" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="webpro.js" crc="416662029" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
-    <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
-    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="require.js" crc="3861931657" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
   </folder>
   <folder name="images">
@@ -55,8 +57,8 @@
     </file>
     <file name="pasted svg 482849x430_poster_.png" crc="490474071" ref="index"/>
   </folder>
-  <file name="index.html" crc="133959903" seo="true" mt="1526405617739" redirect="true"/>
-  <file name="mi-perfil.html" crc="3992952883" seo="true" mt="1526405604963" redirect="true"/>
-  <file name="ofertas.html" crc="4007894894" seo="true" mt="1526405604963" redirect="true"/>
-  <file name="cerca-de-mí.html" crc="422237726" seo="true" mt="1526405604963" redirect="true"/>
+  <file name="index.html" crc="298929394" seo="true" mt="1526409587894" redirect="true"/>
+  <file name="mi-perfil.html" crc="116604464" seo="true" mt="1526409587894" redirect="true"/>
+  <file name="ofertas.html" crc="422913438" seo="true" mt="1526409587894" redirect="true"/>
+  <file name="cerca-de-mí.html" crc="523572990" seo="true" mt="1526409587894" redirect="true"/>
 </manifest>
