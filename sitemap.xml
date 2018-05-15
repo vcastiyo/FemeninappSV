@@ -5,6 +5,16 @@
     <lastmod>2018-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://feminapp.com/images/23561507_10155789387008818_1213765909228873572_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/31706405_10156881086687241_8079969433906315264_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/pasted-svg-491653x143.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-85563x118.svg</image:loc>
     </image:image>
@@ -12,16 +22,7 @@
       <image:loc>http://feminapp.com/images/pasted-svg-501715x44.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://feminapp.com/images/23561507_10155789387008818_1213765909228873572_n.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://feminapp.com/images/27654347_10159994347840002_1437949890453855461_n-crop-u517.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://feminapp.com/images/31706405_10156881086687241_8079969433906315264_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://feminapp.com/images/pasted-svg-491653x143.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-482849x430.svg</image:loc>
@@ -32,6 +33,7 @@
     <lastmod>2018-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/mi-perfil.html"/>
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-85563x118.svg</image:loc>
     </image:image>
@@ -44,6 +46,7 @@
     <lastmod>2018-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/ofertas.html"/>
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-85563x118.svg</image:loc>
     </image:image>
@@ -56,6 +59,7 @@
     <lastmod>2018-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/cerca-de-mí.html"/>
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-85563x118.svg</image:loc>
     </image:image>
