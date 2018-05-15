@@ -1,0 +1,62 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="feminapp.com" resolutions="1x" timestamp="1526406651178">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="420514191" ref="mi-perfil:index:cerca-de-mí:ofertas"/>
+    <file name="mi-perfil.css" crc="3943115278" ref="mi-perfil"/>
+    <file name="index.css" crc="3892172524" ref="index"/>
+    <file name="cerca-de-m_.css" crc="3943115278" ref="cerca-de-mí"/>
+    <file name="ofertas.css" crc="3943115278" ref="ofertas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="museutils.js" crc="17924269" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="museconfig.js" crc="144853533" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:mi-perfil:ofertas:cerca-de-mí"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-85563x118.svg" crc="486894552" seo="true" ref="index:mi-perfil:ofertas:cerca-de-mí">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mi-perfil" alt=""/>
+      <caption webpage="ofertas" alt=""/>
+      <caption webpage="cerca-de-mí" alt=""/>
+    </file>
+    <file name="pasted svg 85563x118_poster_.png" crc="4290148018" ref="index"/>
+    <file name="pasted-svg-501715x44.svg" crc="4133386406" seo="true" ref="index:mi-perfil:ofertas:cerca-de-mí">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mi-perfil" alt=""/>
+      <caption webpage="ofertas" alt=""/>
+      <caption webpage="cerca-de-mí" alt=""/>
+    </file>
+    <file name="pasted svg 501715x44_poster_.png" crc="4248003855" ref="index"/>
+    <file name="23561507_10155789387008818_1213765909228873572_n.jpg" crc="155688223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="27654347_10159994347840002_1437949890453855461_n-crop-u517.jpg" crc="152475643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31706405_10156881086687241_8079969433906315264_n.jpg" crc="253865700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-491653x143.svg" crc="3789589761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 491653x143_poster_.png" crc="3978105906" ref="index"/>
+    <file name="pasted-svg-482849x430.svg" crc="3892964950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 482849x430_poster_.png" crc="490474071" ref="index"/>
+  </folder>
+  <file name="index.html" crc="133959903" seo="true" mt="1526405617739" redirect="true"/>
+  <file name="mi-perfil.html" crc="3992952883" seo="true" mt="1526405604963" redirect="true"/>
+  <file name="ofertas.html" crc="4007894894" seo="true" mt="1526405604963" redirect="true"/>
+  <file name="cerca-de-mí.html" crc="422237726" seo="true" mt="1526405604963" redirect="true"/>
+</manifest>
