@@ -1,22 +1,24 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="feminapp.com" resolutions="1x" timestamp="1526433800373">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="feminapp.com" resolutions="1x" timestamp="1526434056036">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="420514191" ref="ofertas:cerca-de-mí:mi-perfil:index"/>
-    <file name="ofertas.css" crc="3929285267" ref="ofertas"/>
-    <file name="cerca-de-m_.css" crc="3929285267" ref="cerca-de-mí"/>
-    <file name="mi-perfil.css" crc="3929285267" ref="mi-perfil"/>
-    <file name="index.css" crc="256303383" ref="index"/>
+    <file name="master_a-master.css" crc="187683930" ref="mi-perfil:index:ofertas:cerca-de-mí"/>
+    <file name="mi-perfil.css" crc="291218482" ref="mi-perfil"/>
+    <file name="index.css" crc="4162475035" ref="index"/>
+    <file name="ofertas.css" crc="291218482" ref="ofertas"/>
+    <file name="cerca-de-m_.css" crc="291218482" ref="cerca-de-mí"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="museutils.js" crc="17924269" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="museconfig.js" crc="144853533" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
-    <file name="webpro.js" crc="416662029" ref="phone>index:index"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:index"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:index"/>
-    <file name="touchswipe.js" crc="432264157" ref="phone>index:index"/>
+    <file name="webpro.js" crc="416662029" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="touchswipe.js" crc="432264157" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
     <file name="require.js" crc="3861931657" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí:index:mi-perfil:ofertas:cerca-de-mí"/>
   </folder>
   <folder name="images">
@@ -61,13 +63,7 @@
       <caption webpage="ofertas" alt=""/>
     </file>
     <file name="pasted svg 288715x44_poster_.png" crc="96376899" ref="phone>index"/>
-    <file name="pasted-svg-501715x44.svg" crc="4133386406" seo="true" ref="index:mi-perfil:ofertas:cerca-de-mí">
-      <caption webpage="index" alt=""/>
-      <caption webpage="mi-perfil" alt=""/>
-      <caption webpage="cerca-de-mí" alt=""/>
-      <caption webpage="ofertas" alt=""/>
-    </file>
-    <file name="pasted svg 501715x44_poster_.png" crc="4248003855" ref="index"/>
+    <file name="fill feminapp-page-fr.png" crc="3776317784" ref="index"/>
     <file name="27654347_10159994347840002_1437949890453855461_n-crop-u517.jpg" crc="152475643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -75,7 +71,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 482849x430_poster_.png" crc="490474071" ref="index"/>
-    <file name="fill feminapp-page-fr.png" crc="3776317784" ref="index"/>
+    <file name="pasted-svg-501715x44.svg" crc="4133386406" seo="true" ref="index:mi-perfil:ofertas:cerca-de-mí">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mi-perfil" alt=""/>
+      <caption webpage="cerca-de-mí" alt=""/>
+      <caption webpage="ofertas" alt=""/>
+    </file>
+    <file name="pasted svg 501715x44_poster_.png" crc="4248003855" ref="index"/>
     <file name="fill feminapp.jpg" crc="161514453" ref="mi-perfil:ofertas:cerca-de-mí">
       <caption webpage="mi-perfil" alt=""/>
       <caption webpage="ofertas" alt=""/>
@@ -84,19 +86,19 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="324520905" ref="phone>ofertas:phone>mi-perfil:phone>cerca-de-mí:phone>index"/>
-      <file name="ofertas.css" crc="111647168" ref="phone>ofertas"/>
-      <file name="mi-perfil.css" crc="111647168" ref="phone>mi-perfil"/>
-      <file name="cerca-de-m_.css" crc="111647168" ref="phone>cerca-de-mí"/>
-      <file name="index.css" crc="272314541" ref="phone>index"/>
+      <file name="master_a-master.css" crc="273344456" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí"/>
+      <file name="index.css" crc="139836309" ref="phone>index"/>
+      <file name="mi-perfil.css" crc="168911917" ref="phone>mi-perfil"/>
+      <file name="ofertas.css" crc="168911917" ref="phone>ofertas"/>
+      <file name="cerca-de-m_.css" crc="168911917" ref="phone>cerca-de-mí"/>
     </folder>
-    <file name="index.html" crc="4086207561" seo="true" mt="1526433716337" redirect="true"/>
-    <file name="mi-perfil.html" crc="4090912168" seo="true" mt="1526433716337" redirect="true"/>
-    <file name="ofertas.html" crc="3983245391" seo="true" mt="1526433716337" redirect="true"/>
-    <file name="cerca-de-mí.html" crc="3881927852" seo="true" mt="1526433716337" redirect="true"/>
+    <file name="index.html" crc="4207321654" seo="true" mt="1526434031781" redirect="true"/>
+    <file name="mi-perfil.html" crc="4172754194" seo="true" mt="1526434031781" redirect="true"/>
+    <file name="ofertas.html" crc="387456695" seo="true" mt="1526434031781" redirect="true"/>
+    <file name="cerca-de-mí.html" crc="144440017" seo="true" mt="1526434031781" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3795581199" seo="true" mt="1526433417766" redirect="true"/>
-  <file name="mi-perfil.html" crc="3815198608" seo="true" mt="1526433417765" redirect="true"/>
-  <file name="ofertas.html" crc="127602859" seo="true" mt="1526433417765" redirect="true"/>
-  <file name="cerca-de-mí.html" crc="264041144" seo="true" mt="1526433417765" redirect="true"/>
+  <file name="index.html" crc="106410478" seo="true" mt="1526434031778" redirect="true"/>
+  <file name="mi-perfil.html" crc="4282933730" seo="true" mt="1526434031778" redirect="true"/>
+  <file name="ofertas.html" crc="3844818586" seo="true" mt="1526434031778" redirect="true"/>
+  <file name="cerca-de-mí.html" crc="3982578367" seo="true" mt="1526434031778" redirect="true"/>
 </manifest>
