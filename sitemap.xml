@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://feminapp.com/index.html</loc>
-    <lastmod>2018-05-15</lastmod>
+    <lastmod>2018-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/index.html"/>
@@ -19,18 +19,18 @@
       <image:loc>http://feminapp.com/images/pasted-svg-85563x118.svg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://feminapp.com/images/pasted-svg-501715x44.svg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://feminapp.com/images/27654347_10159994347840002_1437949890453855461_n-crop-u517.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-482849x430.svg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://feminapp.com/images/pasted-svg-501715x44.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://feminapp.com/mi-perfil.html</loc>
-    <lastmod>2018-05-15</lastmod>
+    <lastmod>2018-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/mi-perfil.html"/>
@@ -43,7 +43,7 @@
   </url>
   <url>
     <loc>http://feminapp.com/ofertas.html</loc>
-    <lastmod>2018-05-15</lastmod>
+    <lastmod>2018-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/ofertas.html"/>
@@ -53,10 +53,28 @@
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-501715x44.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/29791978_1548919811872524_1214554339294337775_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/pasted-svg-509x61.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/17425049_829594743857929_2444904905750227544_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/30261684_1198071463657029_3315382326338256896_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/15977905_319000621833565_4758494532118698486_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/28168782_212157009525244_2028816083185207170_n.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://feminapp.com/cerca-de-m%C3%AD.html</loc>
-    <lastmod>2018-05-15</lastmod>
+    <lastmod>2018-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://feminapp.com/phone/cerca-de-mí.html"/>
@@ -65,6 +83,30 @@
     </image:image>
     <image:image>
       <image:loc>http://feminapp.com/images/pasted-svg-501715x44.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://feminapp.com/perfil.html</loc>
+    <lastmod>2018-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://feminapp.com/images/pasted-svg-85563x118.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/pasted-svg-501715x44.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/walwa%20spa.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/walwa3-crop-u3007.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/walwa2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://feminapp.com/images/walwa1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
