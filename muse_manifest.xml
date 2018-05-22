@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="feminapp.com" resolutions="1x" timestamp="1527029697906">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="feminapp.com" resolutions="1x" timestamp="1527029942240">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4066830481" ref="mi-perfil:perfil:index:cerca-de-mí:ofertas"/>
@@ -138,15 +138,15 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="273344456" ref="phone>index:phone>mi-perfil:phone>ofertas:phone>cerca-de-mí"/>
-      <file name="index.css" crc="139836309" ref="phone>index"/>
-      <file name="mi-perfil.css" crc="168911917" ref="phone>mi-perfil"/>
-      <file name="ofertas.css" crc="168911917" ref="phone>ofertas"/>
-      <file name="cerca-de-m_.css" crc="168911917" ref="phone>cerca-de-mí"/>
+      <file name="index.css" crc="266147590" ref="phone>index"/>
+      <file name="mi-perfil.css" crc="423963068" ref="phone>mi-perfil"/>
+      <file name="ofertas.css" crc="423963068" ref="phone>ofertas"/>
+      <file name="cerca-de-m_.css" crc="423963068" ref="phone>cerca-de-mí"/>
     </folder>
-    <file name="index.html" crc="4207321654" seo="true" mt="1527029627978" redirect="true"/>
-    <file name="mi-perfil.html" crc="4172754194" seo="true" mt="1527029627978" redirect="true"/>
-    <file name="ofertas.html" crc="387456695" seo="true" mt="1527029627978" redirect="true"/>
-    <file name="cerca-de-mí.html" crc="144440017" seo="true" mt="1527029627978" redirect="true"/>
+    <file name="index.html" crc="456103269" seo="true" mt="1527029883742" redirect="true"/>
+    <file name="mi-perfil.html" crc="234797162" seo="true" mt="1527029883742" redirect="true"/>
+    <file name="ofertas.html" crc="3852933346" seo="true" mt="1527029883742" redirect="true"/>
+    <file name="cerca-de-mí.html" crc="474263669" seo="true" mt="1527029883742" redirect="true"/>
   </folder>
   <file name="index.html" crc="3873729933" seo="true" mt="1527029627973" redirect="true"/>
   <file name="mi-perfil.html" crc="366323325" seo="true" mt="1527029627973" redirect="true"/>
